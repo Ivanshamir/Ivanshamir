@@ -1,5 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
+I am **Shamir Imtiaz** working as **Software Engineer @ Sharetrip**. I am an experienced **Full Stack Developer** skilled in **PHP, Laravel, Yii, Symfony, Python, dJango, Javascript, docker, rabbitmq, git, aws, mysql, vue.js, redis etc.**
+
+---
+
+- 🔭 I’m currently working as **Software Engineer @ Sharetrip**
+- 🌱 I’m currently learning **Python, Aws**
+- 👯 I’m looking to collaborate on open source/commercial projects
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me: 
+  [Linkedin](https://www.linkedin.com/in/ivan-shamir)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanshamir&layout=compact&theme=cobalt)](https://github.com/Ivanshamir/github-readme-stats)
+  
+![Shamir's github stats](https://github-readme-stats.vercel.app/api?username=Ivanshamir&count_private=true&show_icons=true&theme=cobalt)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ivanshamir)](https://github.com/Ivanshamir/github-profile-trophy)
 <!--
 **Ivanshamir/Ivanshamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
