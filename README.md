@@ -13,7 +13,7 @@ I am **Shamir Imtiaz** working as **Software Engineer @ Sharetrip**. I am an exp
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanshamir&layout=compact&theme=cobalt)](https://github.com/Ivanshamir/github-readme-stats)
   
-![Shamir's github stats](https://github-readme-stats.vercel.app/api?username=Ivanshamir&count_private=true&show_icons=true&theme=cobalt)
+![Shamir's github stats](https://github-readme-stats.vercel.app/api?username=Ivanshamir&count_private=true&show_icons=true&theme=cobalt) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ivanshamir)](https://github.com/Ivanshamir/github-profile-trophy)
 <!--
