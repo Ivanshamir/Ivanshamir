@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am **Shamir Imtiaz** working as **Software Engineer @ Sharetrip**. I am an experienced **Full Stack Developer** skilled in **PHP, Laravel, Yii, Symfony, Python, dJango, Javascript, docker, rabbitmq, git, aws, mysql, vue.js, redis etc.**
+I am **Shamir Imtiaz** working as **Software Engineer @ JoulesLabs**. I am an experienced **Full Stack Developer** skilled in **PHP, Laravel, Yii, Symfony, Python, dJango, Javascript, docker, rabbitmq, git, aws, mysql, vue.js, redis etc.**
 
 ---
 
-- 🔭 I’m currently working as **Software Engineer @ Sharetrip**
+- 🔭 I’m currently working as **Software Engineer @ JoulesLabs**
 - 🌱 I’m currently learning **Python, Aws**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
