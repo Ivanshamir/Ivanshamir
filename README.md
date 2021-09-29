@@ -11,6 +11,8 @@ I am **Shamir Imtiaz** working as **Software Engineer @ JoulesLabs**. I am an ex
 - 📫 How to reach me: 
   [Linkedin](https://www.linkedin.com/in/ivan-shamir)
   
+![](https://komarev.com/ghpvc/?username=Ivanshamir&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanshamir&layout=compact&theme=cobalt)](https://github.com/Ivanshamir/github-readme-stats)
   
 ![Shamir's github stats](https://github-readme-stats.vercel.app/api?username=Ivanshamir&count_private=true&show_icons=true&theme=cobalt) 
