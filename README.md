@@ -4,7 +4,7 @@ I am **Shamir Imtiaz** working as **Software Engineer @ JoulesLabs**. I am an ex
 
 ---
 
-- 🔭 I’m currently working as **Software Engineer @ JoulesLabs**
+- 🔭 I’m currently working as **Software Engineer @ **
 - 🌱 I’m currently learning **Python, Aws**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
