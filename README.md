@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Shamir Imtiaz** working as **Software Engineer @ JoulesLabs**. I am an experienced **Full Stack Developer** skilled in **PHP, Laravel, Yii, Symfony, Python, dJango, Javascript, Node.js, Nest.js, Tyescript, Docker, rabbitmq, git, aws, mysql, vue.js, redis etc.**
+I am **Shamir Imtiaz** working as **Software Engineer @ Apsis Solutions**. I am an experienced **Full Stack Developer** skilled in **PHP, Laravel, Yii, Symfony, Python, dJango, Javascript, Node.js, Nest.js, Tyescript, Docker, rabbitmq, git, aws, mysql, vue.js, redis etc.**
 
 ---
 
